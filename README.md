@@ -8,7 +8,7 @@ A simple full-stack note-taking application built with React for the frontend an
 - Delete Notes: Users can delete notes they no longer need.
 
 # Technologies Used
-#Frontend:
+# Frontend:
 - React.js
 - Axios (for API requests)
 - React Router (for routing)
@@ -41,15 +41,15 @@ To run this project locally, you will need to have the following installed:
 # Testing
 You can use Postman or any API testing tool to test the backend API endpoints:
 
--GET /api/notes: Fetch all notes
--POST /api/notes: Create a new note
--PUT /api/notes/:id: Update a note
--DELETE /api/notes/:id: Delete a note
+- GET /api/notes: Fetch all notes
+- POST /api/notes: Create a new note
+- PUT /api/notes/:id: Update a note
+- DELETE /api/notes/:id: Delete a note
 
 # Acknowledgements
--React
--Node.js
--Express
--MongoDB
--Material-UI
+- React
+- Node.js
+- Express
+- MongoDB
+- Material-UI
 
